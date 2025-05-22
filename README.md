@@ -36,7 +36,7 @@ The dataset used in this project is from [Kaggle - IMDb Movie Dataset](https://w
 ![top-movies](sample-images/top_movies.png)
 
 ### 👑 Most Frequent Actors
-![top-actors](sample-images/top_actors.png)
+![top-actors](images/top_moviess.png)
 
 ### 🎭 Genre-wise Rating Distribution
 ![genre-ratings](sample-images/genre_ratings.png)
