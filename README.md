@@ -36,13 +36,13 @@ The dataset used in this project is from [Kaggle - IMDb Movie Dataset](https://w
 ![top-movies](images/top_moviess.png)
 
 ### 👑 Most Frequent Actors
-![top-actors]()
+![top-actors](images/top_actors.png)
 
 ### 🎭 Genre-wise Rating Distribution
-![genre-ratings](sample-images/genre_ratings.png)
+![genre-ratings](images/genre_ratings.png)
 
 ### 📅 Movie Releases by Year
-![release-trend](images/Screenshot_2025-05-22_131915.png)
+![release-trend](images/release_trend.png)
 
 > **📁 To add these images:**  
 > Create a folder in your repo named `sample-images` and upload your charts as `.png` images with matching names.  
