@@ -42,7 +42,7 @@ The dataset used in this project is from [Kaggle - IMDb Movie Dataset](https://w
 ![genre-ratings](sample-images/genre_ratings.png)
 
 ### 📅 Movie Releases by Year
-![release-trend](sample-images/release_trend.png)
+![release-trend](images/Screenshot 2025-05-22 131915.png)
 
 > **📁 To add these images:**  
 > Create a folder in your repo named `sample-images` and upload your charts as `.png` images with matching names.  
