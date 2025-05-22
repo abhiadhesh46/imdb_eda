@@ -84,7 +84,7 @@ The dataset used in this project is from [Kaggle - IMDb Movie Dataset](https://w
 **Abhi Adhesh G**  
 Final Year Computer Science & Engineering Student  
 Aspiring Data Scientist, EDA Enthusiast, Visual Storyteller  
-[LinkedIn](https://www.linkedin.com/in/your-profile) • [GitHub](https://github.com/your-profile)
+[LinkedIn](www.linkedin.com/in/abhi-adhesh-g) • [GitHub](https://github.com/abhiadhesh46)
 
 ---
 
