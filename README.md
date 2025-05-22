@@ -44,9 +44,6 @@ The dataset used in this project is from [Kaggle - IMDb Movie Dataset](https://w
 ### 📅 Movie Releases by Year
 ![release-trend](images/release_trend.png)
 
-> **📁 To add these images:**  
-> Create a folder in your repo named `sample-images` and upload your charts as `.png` images with matching names.  
-> Use `plt.savefig("sample-images/top_movies.png")` before `plt.show()` to export them directly from Colab!
 
 ---
 
